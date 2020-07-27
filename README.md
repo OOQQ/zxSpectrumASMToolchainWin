@@ -1,11 +1,11 @@
-Simplest ZX Spectrum ASM toolchain
+# Simplest ZX Spectrum ASM toolchain
 
-You will need to provide the FUSE emulator (place fuse.exe and everything else on the 'emulator' folder) and the sjASMPlus.exe compiler (place .exe on 'assembler' folder)
+You still need to provide the FUSE emulator (place fuse.exe and everything else on the 'emulator' folder) and the sjASMplus.exe compiler (place .exe on 'assembler' folder)
 
-have fun!
+Have fun!
 
-resources to get you started:
+Resources to get you started:
 
-chibi akumas
-world of spectrum
-speccy.org
+- [chibi akumas](https://www.chibiakumas.com/)
+- [world of spectrum](https://worldofspectrum.org/)
+- [speccy.org](https://www.speccy.org/)
