@@ -1,4 +1,4 @@
-# Simplest ZX Spectrum ASM toolchain (under win)
+# Simplest ZX Spectrum ASM toolchain (windows)
 
 You still need to provide the [FUSE](http://fuse-emulator.sourceforge.net/#Download) emulator (place fuse.exe and everything else on the 'emulator' folder) and the [sjASMplus](https://github.com/sjasmplus/sjasmplus/releases) compiler (place .exe on 'assembler' folder)
 
