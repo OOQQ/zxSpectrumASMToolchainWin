@@ -7,11 +7,11 @@ Have fun!
 ---
 
 reads:
-- [Chibi Akumas](https://www.chibiakumas.com/){:target="_blank"}
-- [World of Spectrum](https://worldofspectrum.org/){:target="_blank"}
-- [Speccy.org](https://www.speccy.org/){:target="_blank"}
+- [Chibi Akumas](https://www.chibiakumas.com/)
+- [World of Spectrum](https://worldofspectrum.org/)
+- [Speccy.org](https://www.speccy.org/)
 
 youtube:
-- [Let's learn  Z80 Assembly!](https://www.youtube.com/watch?v=og8E1gDfMsE){:target="_blank"}
-- [Hello world on the ZX Spectrum (Chibi Akumas)](https://www.youtube.com/watch?v=qRbvQr3bFr4){:target="_blank"}
-- [First Steps in Z80 Assembly Language youtube series](https://www.youtube.com/watch?v=1gHlMpO8gqw){:target="_blank"}
+- [Let's learn  Z80 Assembly!](https://www.youtube.com/watch?v=og8E1gDfMsE)
+- [Hello world on the ZX Spectrum (Chibi Akumas)](https://www.youtube.com/watch?v=qRbvQr3bFr4)
+- [First Steps in Z80 Assembly Language youtube series](https://www.youtube.com/watch?v=1gHlMpO8gqw)
