@@ -4,8 +4,14 @@ You still need to provide the [FUSE emulator](http://fuse-emulator.sourceforge.n
 
 Have fun!
 
-Resources to get you started:
+---
 
-- [chibi akumas](https://www.chibiakumas.com/)
-- [world of spectrum](https://worldofspectrum.org/)
-- [speccy.org](https://www.speccy.org/)
+reads:
+- [Chibi Akumas](https://www.chibiakumas.com/)
+- [World of Spectrum](https://worldofspectrum.org/)
+- [Speccy.org](https://www.speccy.org/)
+
+youtube:
+- [Let's learn  Z80 Assembly!](https://www.youtube.com/watch?v=og8E1gDfMsE)
+- [Hello world on the ZX Spectrum (Chibi Akumas)](https://www.youtube.com/watch?v=qRbvQr3bFr4)
+- [First Steps in Z80 Assembly Language youtube series](https://www.youtube.com/watch?v=1gHlMpO8gqw)
